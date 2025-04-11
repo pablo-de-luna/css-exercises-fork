@@ -1,0 +1,15 @@
+.paragraph {
+    background-color: rgb(255, 164, 184);
+    font-family: Verdana, sans-serif, "DejaVu Sans";
+}
+#number-two {
+    color: rgb(86, 86, 255);
+    font-size: 32px;
+}
+.adjust-font-size {
+    font-size: 24px;
+}
+#number-four {
+    background-color: #7df77b;
+    font-weight: bold;
+}
